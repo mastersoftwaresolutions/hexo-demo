@@ -1,2 +1,3 @@
 # hexo-demo
-Hexo.io shopping cart template.
+Implented shopping cart html tamplate with hexo.js .Hexo is a fast, simple & powerful blog framework,
+powered by Node.js.
